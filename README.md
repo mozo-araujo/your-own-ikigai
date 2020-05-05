@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/mozo-araujo/your-own-ikigai">
-    <img src="ikigai_logo.svg" alt="Ikigai Logo" width="80" height="80">
+    <img src="ikigai_logo.svg" alt="Ikigai Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Your Own Ikigai</h3>
@@ -45,51 +45,32 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`mozo-araujo`, `your-own-ikigai`, `twitter_handle`, `mozo_araujo@hotmail.com`
+I've seen a lot of information and videos about ikigai when I was trying to find my own. One of them shocked me: there was a page with a ikigai tool template for downloading and filling the blanks, but the page was not online anymore.
+So, I thought "maybe I could do this template and share". But then, seeing other videos, each one was sharing different tips of how to fill up the template. Then the idea grew bigger: "why not build a website that can give these tips while filling up the blanks?"
 
+That's what this project is about.
 
 ### Built With
 
-* []()
-* []()
-* []()
-
+* [Node.js](https://nodejs.org/pt/)
+* [React](https://pt-br.reactjs.org/)
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+Project still in development. This section will be filled later for you to get a local copy up and running.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
 
 ### Installation
  
-1. Clone the your-own-ikigai
-```sh
-git clone https://github.com/mozo-araujo/your-own-ikigai.git
-```
-2. Install NPM packages
-```sh
-npm install
-```
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Here is a link for the [xd prototype](https://xd.adobe.com/view/59eb0b46-d7df-4bde-6d97-41d485998f72-2fda/?fullscreen)
 
 
 
@@ -97,7 +78,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 See the [open issues](https://github.com/mozo-araujo/your-own-ikigai/issues) for a list of proposed features (and known issues).
-
+Some of the next steps:
+* Review menu bar usability
+* Develop entries
+* Develop front-end animations 
 
 
 <!-- CONTRIBUTING -->
@@ -113,35 +97,33 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
+<!-- LICENSE 
 ## License
-
 Distributed under the MIT License. See `LICENSE` for more information.
-
+-->
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - mozo_araujo@hotmail.com
+Matheus Araujo Fonseca - [Linkedin](https://www.linkedin.com/in/matheus-a-fonseca/) - [Email](mailto:mozo_araujo@hotmail.com)
 
 Project Link: [https://github.com/mozo-araujo/your-own-ikigai](https://github.com/mozo-araujo/your-own-ikigai)
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
+<!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
-
 * []()
 * []()
 * []()
-
+-->
 
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
@@ -155,3 +137,4 @@ Project Link: [https://github.com/mozo-araujo/your-own-ikigai](https://github.co
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+-->
