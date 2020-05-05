@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="226" height="226" viewBox="0 0 226 226">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6ea607;
+        opacity: 0.8;
+      }
+    </style>
+  </defs>
+  <circle id="Circulo_mundo" data-name="Circulo mundo" class="cls-1" cx="113" cy="113" r="113"/>
+</svg>

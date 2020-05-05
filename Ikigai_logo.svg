@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="625" height="385" viewBox="0 0 625 385">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #faa200;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        opacity: 0.8;
+      }
+
+      .cls-2 {
+        fill: #eb1722;
+      }
+
+      .cls-3 {
+        fill: #6ea607;
+      }
+
+      .cls-4 {
+        fill: #0a8cb0;
+      }
+
+      .cls-12, .cls-5, .cls-7, .cls-9 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #fff;
+        opacity: 0.42;
+      }
+
+      .cls-6 {
+        fill: #fff;
+        font-size: 18px;
+      }
+
+      .cls-6, .cls-8 {
+        font-family: TwCenMT-Regular, Tw Cen MT;
+      }
+
+      .cls-7 {
+        stroke: rgba(152,152,152,0.99);
+        stroke-width: 3px;
+      }
+
+      .cls-8 {
+        fill: #989898;
+        font-size: 12px;
+      }
+
+      .cls-9 {
+        stroke: #424242;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-dasharray: 5;
+      }
+
+      .cls-10 {
+        fill: #424242;
+      }
+
+      .cls-11 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Ikigai" transform="translate(140 -146)">
+    <circle id="Circulo_pagar" data-name="Circulo pagar" class="cls-1" cx="113" cy="113" r="113" transform="translate(60 305)"/>
+    <circle id="Circulo_ama" data-name="Circulo ama" class="cls-2" cx="113" cy="113" r="113" transform="translate(60 146)"/>
+    <circle id="Circulo_mundo" data-name="Circulo mundo" class="cls-3" cx="113" cy="113" r="113" transform="translate(140 225)"/>
+    <circle id="Circulo_bom" data-name="Circulo bom" class="cls-4" cx="113" cy="113" r="113" transform="translate(-20 225)"/>
+    <g id="Bordas">
+      <g id="Borda_ama" data-name="Borda ama" class="cls-5" transform="translate(60 146)">
+        <circle class="cls-11" cx="113" cy="113" r="113"/>
+        <circle class="cls-12" cx="113" cy="113" r="112.5"/>
+      </g>
+      <g id="Borda_pagar" data-name="Borda pagar" class="cls-5" transform="translate(60 305)">
+        <circle class="cls-11" cx="113" cy="113" r="113"/>
+        <circle class="cls-12" cx="113" cy="113" r="112.5"/>
+      </g>
+      <g id="Borda_mundo" data-name="Borda mundo" class="cls-5" transform="translate(140 225)">
+        <circle class="cls-11" cx="113" cy="113" r="113"/>
+        <circle class="cls-12" cx="113" cy="113" r="112.5"/>
+      </g>
+      <g id="Borda_bom" data-name="Borda bom" class="cls-5" transform="translate(-20 225)">
+        <circle class="cls-11" cx="113" cy="113" r="113"/>
+        <circle class="cls-12" cx="113" cy="113" r="112.5"/>
+      </g>
+    </g>
+    <text id="PAIXÃO" class="cls-6" transform="translate(111 282)"><tspan x="-29.25" y="0">PAIXÃO</tspan></text>
+    <text id="MISSÃO" class="cls-6" transform="translate(237 282)"><tspan x="-30.287" y="0">MISSÃO</tspan></text>
+    <text id="TALENTO" class="cls-6" transform="translate(237 407)"><tspan x="-33.667" y="0">TALENTO</tspan></text>
+    <text id="PROFISSÃO" class="cls-6" transform="translate(111 407)"><tspan x="-43.229" y="0">PROFISSÃO</tspan></text>
+    <text id="ikigai-2" data-name="ikigai" class="cls-6" transform="translate(173 344)"><tspan x="-19.793" y="0">ikigai</tspan></text>
+    <text id="No_que_você_é_bom" data-name="No quevocê ébom" class="cls-6" transform="translate(30 325)"><tspan x="-26.394" y="0">No que</tspan><tspan x="-23.388" y="19">você é</tspan><tspan x="-15.469" y="38">bom</tspan></text>
+    <text id="O_que_o_mundo_precisa" data-name="O queo mundoprecisa" class="cls-6" transform="translate(314 325)"><tspan x="-22.83" y="0">O que</tspan><tspan x="-30.335" y="19">o mundo</tspan><tspan x="-25.862" y="38">precisa</tspan></text>
+    <text id="O_que_você_ama" data-name="O quevocê ama" class="cls-6" transform="translate(173 191)"><tspan x="-22.83" y="0">O que</tspan><tspan x="-34.822" y="19">você ama</tspan></text>
+    <text id="Pelo_que_podem_te_pagar" data-name="Pelo que podemte pagar" class="cls-6" transform="translate(173 476)"><tspan x="-58.781" y="0">Pelo que podem</tspan><tspan x="-32.282" y="19">te pagar</tspan></text>
+    <line id="Barra_confortavel" data-name="Barra confortavel" class="cls-7" y1="39" transform="translate(343.5 446.5)"/>
+    <text id="Confortável_mas_sentimento_de_vazio" data-name="Confortável, 
+mas sentimento
+de vazio" class="cls-8" transform="translate(355 456)"><tspan x="0" y="0">Confortável, </tspan><tspan x="0" y="13">mas sentimento</tspan><tspan x="0" y="26">de vazio</tspan></text>
+    <line id="Barra_entusiasmo" data-name="Barra entusiasmo" class="cls-7" y1="39" transform="translate(405.5 255.5)"/>
+    <text id="Entusiasmo_e_complacência_mas_incerteza" data-name="Entusiasmo ecomplacência,mas incerteza" class="cls-8" transform="translate(418 265)"><tspan x="0" y="0">Entusiasmo e</tspan><tspan x="0" y="13">complacência,</tspan><tspan x="0" y="26">mas incerteza</tspan></text>
+    <line id="Barrra_alegria" data-name="Barrra alegria" class="cls-7" y1="39" transform="translate(10.5 173.5)"/>
+    <text id="Alegria_e_plenitude_mas_pouca_prosperidade" data-name="Alegria eplenitude, maspouca prosperidade" class="cls-8" transform="translate(0 183)"><tspan x="-45.059" y="0">Alegria e</tspan><tspan x="-68.83" y="13">plenitude, mas</tspan><tspan x="-98.15" y="26">pouca prosperidade</tspan></text>
+    <line id="Barra_satisfacao" data-name="Barra satisfacao" class="cls-7" y1="39" transform="translate(-54.5 386.5)"/>
+    <text id="Satisfação_mas_sentimento_de_inutilidade" data-name="Satisfação, mas
+sentimento de
+inutilidade" class="cls-8" transform="translate(-65 396)"><tspan x="-74.918" y="0">Satisfação, mas</tspan><tspan x="-65.578" y="13">sentimento de</tspan><tspan x="-50.15" y="26">inutilidade</tspan></text>
+    <path id="Linha_satisfacao" data-name="Linha satisfacao" class="cls-9" d="M173,192.448s-36.388,38.729-73.511,57.815S8.6,260.843,8.6,260.843" transform="translate(-52 146)"/>
+    <circle id="Elipse_14" data-name="Elipse 14" class="cls-10" cx="2" cy="2" r="2" transform="translate(119 336)"/>
+    <path id="Linha_alegria" data-name="Linha alegria" class="cls-9" d="M173,286s-13.709-57.259-50.832-76.345S22.551,192.5,22.551,192.5"/>
+    <circle id="Elipse_15" data-name="Elipse 15" class="cls-10" cx="2" cy="2" r="2" transform="translate(171 284)"/>
+    <path id="Linha_entusiasmo" data-name="Linha entusiasmo" class="cls-9" d="M22.551,286S60.4,252.223,99.075,233.137,192.265,221.6,192.265,221.6" transform="translate(203 53)"/>
+    <circle id="Elipse_16" data-name="Elipse 16" class="cls-10" cx="2" cy="2" r="2" transform="translate(223 337)"/>
+    <path id="Linha_confortavel" data-name="Linha confortavel" class="cls-9" d="M22.551,192.448s18.111,40.514,56.156,59.6,102.019,12.5,102.019,12.5" transform="translate(150 200)"/>
+    <circle id="Elipse_17" data-name="Elipse 17" class="cls-10" cx="2" cy="2" r="2" transform="translate(171 390)"/>
+  </g>
+</svg>

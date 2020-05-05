@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="386" height="385" viewBox="0 0 386 385">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+        opacity: 0.42;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Bordas" transform="translate(20 -146)">
+    <g id="Borda_ama" data-name="Borda ama" class="cls-1" transform="translate(60 146)">
+      <circle class="cls-2" cx="113" cy="113" r="113"/>
+      <circle class="cls-3" cx="113" cy="113" r="112.5"/>
+    </g>
+    <g id="Borda_pagar" data-name="Borda pagar" class="cls-1" transform="translate(60 305)">
+      <circle class="cls-2" cx="113" cy="113" r="113"/>
+      <circle class="cls-3" cx="113" cy="113" r="112.5"/>
+    </g>
+    <g id="Borda_mundo" data-name="Borda mundo" class="cls-1" transform="translate(140 225)">
+      <circle class="cls-2" cx="113" cy="113" r="113"/>
+      <circle class="cls-3" cx="113" cy="113" r="112.5"/>
+    </g>
+    <g id="Borda_bom" data-name="Borda bom" class="cls-1" transform="translate(-20 225)">
+      <circle class="cls-2" cx="113" cy="113" r="113"/>
+      <circle class="cls-3" cx="113" cy="113" r="112.5"/>
+    </g>
+  </g>
+</svg>

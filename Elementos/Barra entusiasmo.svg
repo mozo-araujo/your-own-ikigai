@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3" height="39" viewBox="0 0 3 39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: rgba(152,152,152,0.99);
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <line id="Barra_entusiasmo" data-name="Barra entusiasmo" class="cls-1" y1="39" transform="translate(1.5)"/>
+</svg>
