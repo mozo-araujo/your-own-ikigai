@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/mozo-araujo/your-own-ikigai">
-    <img src="ikigai_logo.svg" alt="Ikigai Logo" width="500" height="500">
+    <img src="ikigai_logo.svg" alt="Ikigai Logo" width="400" height="400">
   </a>
 
   <h3 align="center">Your Own Ikigai</h3>
