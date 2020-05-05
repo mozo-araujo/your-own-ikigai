@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/mozo-araujo/your-own-ikigai">
-    <img src="ikigai_logo.svg" alt="Ikigai Logo" width="200" height="200">
+    <img src="ikigai_logo.svg" alt="Ikigai Logo" width="500" height="500">
   </a>
 
   <h3 align="center">Your Own Ikigai</h3>
@@ -106,7 +106,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Matheus Araujo Fonseca - [Linkedin](https://www.linkedin.com/in/matheus-a-fonseca/) - [Email](mailto:mozo_araujo@hotmail.com)
+Matheus Araujo Fonseca - [Linkedin](https://www.linkedin.com/in/matheus-a-fonseca/) - [Email](mailto:mozo_araujo@hotmail.com?subject=Your-Own-Ikigai Feedback)
 
 Project Link: [https://github.com/mozo-araujo/your-own-ikigai](https://github.com/mozo-araujo/your-own-ikigai)
 
