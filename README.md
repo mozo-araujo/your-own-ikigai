@@ -34,8 +34,8 @@
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
-<!--* [License](#license)-->
 * [Contact](#contact)
+<!--* [License](#license)-->
 <!--* [Acknowledgements](#acknowledgements)-->
 
 
