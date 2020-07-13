@@ -106,7 +106,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Matheus Araujo Fonseca - [Linkedin](https://www.linkedin.com/in/matheus-a-fonseca/) - [Email](mailto:mozo_araujo@hotmail.com?subject=Your-Own-Ikigai Feedback)
+Matheus Araujo Fonseca - [Linkedin](https://www.linkedin.com/in/matheus-a-fonseca/) - [Email](mailto:mozo_araujo@hotmail.com?subject=Your-Own-Ikigai%20Feedback)
 
 Project Link: [https://github.com/mozo-araujo/your-own-ikigai](https://github.com/mozo-araujo/your-own-ikigai)
 
